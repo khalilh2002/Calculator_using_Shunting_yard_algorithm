@@ -34,6 +34,12 @@
     <color name="yellowAccent">#f7f700</color>
     <color name="yellowBackground"> #e8960f</color>
 
+    <color name="grayAccent">#cccccc</color>
+    <color name="grayBackground"> #83878d</color>
+
+
+
+
 
 
 </resources>

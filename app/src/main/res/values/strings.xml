@@ -42,4 +42,11 @@
 
     <string name="backspace"> </string>
 
+    <string name="lnText">ln</string>
+    <string name="expText">exp</string>
+    <string name="cosText">cos</string>
+    <string name="tanText">tan</string>
+    <string name="sinText">sin</string>
+
+
 </resources>
