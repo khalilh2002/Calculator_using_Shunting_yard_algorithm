@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <!-- Define the properties of the shape here, like color, corners, etc. -->
+            <gradient android:startColor="@color/blackStart"
+                android:centerColor="@color/blueBlack"
+                android:endColor="@color/greyEnd"
+                android:angle="45"
+
+                /> <!-- Example solid color -->
+
+        </shape>
+    </item>
+</selector>
