@@ -13,7 +13,7 @@ This project is a simple calculator application for Android built using Java and
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/calculatorprojectlsi.git
+    git clone https://github.com/khalilh2002/Calculator_using_Shunting_yard_algorithm.git
     ```
 
 2. **Open the project in Android Studio:**
@@ -30,6 +30,7 @@ This project is a simple calculator application for Android built using Java and
 - **MainActivity.java**: This is the main activity of the application. It contains the logic for handling button clicks, updating the display, and performing calculations.
 - **activity_main.xml**: This layout file defines the user interface of the main activity.
 - **strings.xml**: Contains string resources used in the application.
+- **color.xml**
 - **AndroidManifest.xml**: Describes essential information about the app to the Android build tools, the Android operating system, and Google Play.
 
 ## Algorithms
